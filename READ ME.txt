@@ -1,0 +1,43 @@
+# Tic Tac Toe Game Project
+
+Welcome to my Tic Tac Toe game project! This project showcases my skills in web development, JavaScript, HTML, and CSS.
+
+## Overview
+
+This project is a classic Tic Tac Toe game built using HTML, CSS, and JavaScript. It provides a simple and interactive interface for players to enjoy the game.
+
+## Features
+
+- **Responsive Design**: The game is designed to work seamlessly across various screen sizes, providing a consistent user experience.
+- **Winning Logic**: The JavaScript code includes a robust algorithm to determine the winner of the game based on the player's moves.
+- **Hover Effects**: The CSS styling incorporates hover effects to enhance the visual appeal of the game board.
+- **Play Again Button**: A "Play Again" button allows users to reset the game and start a new round.
+
+## How to Play
+
+1. Open `index.html` in your preferred web browser.
+2. Click on the boxes to make your move (X or O).
+3. The game will announce the winner or declare a draw when appropriate.
+4. Click the "Play Again" button to reset the game.
+
+## Project Structure
+
+- **`index.html`**: The main HTML file containing the structure of the game.
+- **`style.css`**: The CSS file responsible for styling the game interface.
+- **`sketch.js`**: The JavaScript file containing the game logic and winner-checking functions.
+
+## Skills Demonstrated
+
+- **HTML**: Developed the structure of the game using HTML to ensure accessibility and proper document structure.
+- **CSS**: Styled the game interface, making it visually appealing and responsive.
+- **JavaScript**: Implemented the game logic, including player moves, winning conditions, and resetting the game.
+
+## Future Enhancements
+
+- Multiplayer functionality
+- Improved animations and transitions
+- Additional customization options
+
+Feel free to explore the code and use it as a reference for your own projects!
+
+If you have any questions or feedback, please reach out. Enjoy playing!
